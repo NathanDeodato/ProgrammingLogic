@@ -65,17 +65,11 @@
 ###### Portugol
 <img src="/assets/Portugol-Icon.png" width="50px">
 
-<br>
-
 ###### Python
 <img src="/assets/Python-File.png" width="50px">
 
-<br>
-
 ###### JavaScript
 <img src="/assets/Javascript-File.png" width="50px">
-
-<br>
 
 ###### Java
 <img src="/assets/Java-File.png" width="50px">
